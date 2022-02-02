@@ -50,6 +50,9 @@ ul li {
   padding: 35px;
 }
 
+#short {
+  padding: 1;
+}
 
 .list-inline {
   padding: 0px;
