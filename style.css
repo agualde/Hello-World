@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(211, 195, 195);
+  color: rgb(158, 157, 83);
+  font-size: 15px;
+  font-family: 'Space Mono', monospace;
+}
+
+h1 {
+  color: rgb(22, 17, 17);
+  font-size: 35px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#pic {
+  width: 100px;
+  border-radius: 50%;
+}
+
+a {
+  color: rgba(210, 105, 30, 0.527);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(255, 228, 196, 0.521);
+}
+
+h2 {
+  font-size: 15px;
+}
+
+ul li {
+  font-size: 50px;
+  color: white;
+}
+
+.container {
+  margin: 85px auto;
+  width: 800px;
+  padding: 20px;
+}
+
+.card {
+  text-align: center;
+  padding: 27px;
+  box-shadow: 3px 10px 15px rgba(122, 120, 120, 0.5);
+  background-color: rgba(77, 72, 72, 0.1);
+  border-radius: 4px;
+  margin: 25px;
+  padding: 35px;
+}
+
+
+.list-inline {
+  padding: 0px;
+  color: white;
+}
+
+.list-inline li{
+  list-style: none;
+  padding-inline-start: 0px;
+  display: inline;
+  padding: 0;
+  padding-inline-start: 0px;
+
+}
+
+#button {
+  background-color: rgb(138, 102, 102);
+  padding: 6px 22px;
+  border-radius: 5px;
+  color: white;
+}
+
+#button:hover {
+  background-color:  rgb(199, 165, 124);
+}
